@@ -8,3 +8,8 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+.sass-cache
+*.css
+
+fonts/Corbet*/*

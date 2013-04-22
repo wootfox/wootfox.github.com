@@ -1,0 +1,14 @@
+// Variables for wootfox_one
+
+// Typography
+$base-font-size: 16px;
+$base-line-height: 24px;
+
+$corbert: 'Corbert';
+$corbert-light: 'Corbert-Light';
+$corbet-extra-bold: 'Corbert-Extra-Bold';
+$corbert-black: 'Corbert-Black';
+
+%corbert-light { font-weight:300; }
+%corbert-extra-bold { font-weight:600; }
+%corbert-black { font-weight:700; }

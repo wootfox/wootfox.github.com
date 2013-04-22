@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Todd Carter -- @wootfox
+
+# THANKS
+
+    Erin Carter
+    James Cook -- @ohellojames
+
+# TECHNOLOGY COLOPHON
+
+    HTML(5), CSS(3), Ruby(1.8)
+    Normalize.css, SASS, Compass,
+    jQuery, HTML5 Boilerplate, RVM,
+    Jekyll Bootstrap, WebFonts (? npm, bower, grunt...)
+
+    
