@@ -10,7 +10,7 @@
         "base/wootfox_one_variables.scss";
 
 // Mixins
-@include establish-baseline;
+@include establish-baseline; // @todo: redefine vertical rhythm mixins to use REMs
 
 // Normalise/Base
 @import "base/normalize.scss";
